@@ -10,4 +10,4 @@ There are two projects here:
 * **NullObjGenerator**<br/>
   This is the Source Generator project. It's a .Net Standard 2 project - and it has to be for the source generator to be usable with Visual Studio. This only contains one class, which is the (rather messy) generator.
 
-This code goes with <a href="#">a blog post I wrote on this topic</a>.
+This code goes with <a href="https://blog.jermdavis.dev/posts/2024/csharp-code-with-roslyn">a blog post I wrote on this topic</a>.
